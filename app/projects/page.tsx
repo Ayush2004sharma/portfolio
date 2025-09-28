@@ -25,7 +25,7 @@ const projects = [
     ],
     category: "E-commerce",
     slug: "buywise-ecommerce",
-    live: "https://github.com/Ayush2004sharma/AI_Backend_E-commerce",
+    live: "https://ai-frontend-flax-nine.vercel.app/",
   },
   {
     title: "SyncAI – Real-time AI Coding Assistant",
