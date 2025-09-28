@@ -11,8 +11,7 @@ const featuredProjects = [
     image: "/dash3.png",
     tags: [
       "React.js",
-      "Node.js",
-      "Express",
+      "fastapi",
       "MongoDB",
       "Tailwind CSS",
       "GSAP",
